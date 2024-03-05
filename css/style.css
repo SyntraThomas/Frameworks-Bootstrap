@@ -1,0 +1,21 @@
+.syntra--checkout
+{
+    max-width: 1000px;
+    margin-bottom: 2rem;
+}
+
+.syntra--text-primary
+{
+    color: orangered !important;
+}
+
+.syntra--bg-primary
+{
+    background-color: orangered !important;
+}
+
+.nav-link.syntra--active
+{
+    background-color: orangered;
+    color: snow;
+}
